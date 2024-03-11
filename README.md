@@ -19,6 +19,8 @@ Lista Desenvolvida para ver o nível de cada Aluno
 
 O Conversor de Temperaturas foi o meu projeto principal dessa lista, que eu tinha que apresentar e falar como ele funcionava.
 
+<details>
+   
 ```
         private void btnConverter_Click(object sender, EventArgs e)
         {
@@ -35,3 +37,4 @@ O Conversor de Temperaturas foi o meu projeto principal dessa lista, que eu tinh
             this.Close();
         }
 ```
+</details>
