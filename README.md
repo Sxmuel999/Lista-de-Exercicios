@@ -1,7 +1,8 @@
 # Lista de Exercícios
-> Lista de Exercícios - Valete 03
 
-## Objetivo
+## Lista de Exercícios - Valete 03
+
+### Objetivo
 Lista Desenvolvida para ver o nível de cada Aluno
 
 - [X] Finalizar o Conversor de Temperaturas
@@ -17,5 +18,3 @@ Lista Desenvolvida para ver o nível de cada Aluno
 ```
 Texto Selecionado
 ```
-
-### Sub Subtítulo
