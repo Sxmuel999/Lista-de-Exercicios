@@ -9,7 +9,7 @@ Lista Desenvolvida para ver o nível de cada Aluno
    - [ ] Converter para Kelvin
 - [X] Finalizar a Calculadora Simples
 - [X] Finalizar a Calculadora IMC
-- [ ]  
+- [X] Finalizar o Cronômetro  
 
 `Texto Selecionado`
 
