@@ -13,8 +13,25 @@ Lista Desenvolvida para ver o nível de cada Aluno
 - [X] Finalizar o Cronômetro
 - [ ] Finalizar a Calculadora de Hipoteca
 
-`Texto Selecionado`
+### Códigos importantes a serem ressaltados:
+
+`O Código de Conversor de Temperaturas`
+
+O Conversor de Temperaturas foi o meu projeto principal dessa lista, que eu tinha que apresentar e falar como ele funcionava.
 
 ```
-Texto Selecionado
+        private void btnConverter_Click(object sender, EventArgs e)
+        {
+            int TCel,TFah;
+
+            TCel = int.Parse(textBox1.Text);
+            TFah = (((TCel * 9 ) / 5) + 32);
+
+            label5.Text = TFah.ToString();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
 ```
